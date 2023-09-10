@@ -21,7 +21,7 @@ To load the model and use it in a Python Script include this:
 
 ```python
   # To load the model we can use joblib. 
-    model = joblib.load("R_Employee_Retension_Model")
+    model = joblib.load("HR_Employee_Retension_Model")
     model.predict(Testing_Data) 
 ```
 

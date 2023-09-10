@@ -24,7 +24,8 @@ In this project we are writing a model which can recoginise handwritten digits. 
 To load the model and use it in a Python Script include this:
 
 ```python
-  # To load the model we can use joblib. 
+  # To load the model we can use joblib.
+    import joblib
     model = joblib.load("Handwritten_Digits_Recognision")
     model.predict(Testing_Data) 
 ```

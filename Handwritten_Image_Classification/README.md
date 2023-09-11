@@ -21,7 +21,7 @@ In this project we are writing a model which can recoginise handwritten digits. 
 ## Importing Model
 
 
-To load the model and use it in a Python Script include this:
+To load the model and use this lines of code in a Python Script :
 
 ```python
   # To load the model we can use joblib.

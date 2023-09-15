@@ -30,6 +30,16 @@ To load the model and use this line of code in a Python Script :
     # for prediction array_must contain [['sepal length (cm)', 'sepal width (cm)', 'petal length (cm)', 'petal width (cm)']]
     # use double square brackets eg: model.predict([[5.1 3.5 1.4 0.2]])
 ```
+To load the model of support vector machine into your code use. 
+```python
+  # To load the model we can use joblib.
+    import joblib
+    model = joblib.load("Model_Iris")
+    model.predict(Testing_Data)  # to know how to predict just go through the code
+    # for prediction array_must contain [['sepal length (cm)', 'sepal width (cm)', 'petal length (cm)', 'petal width (cm)']]
+    # use double square brackets eg: model.predict([[5.1 3.5 1.4 0.2]])
+```
+
 
 
 ## 🚀 About Me

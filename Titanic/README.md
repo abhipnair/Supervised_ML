@@ -1,7 +1,7 @@
 
 # Titanic Ship Accident Survival Prediction Model. 
 
-In this project, I am writing a alogrithm for a ml model to predict the survival of pepole from the titanic ship sink accident. In this the details of people is fed into a decison tree algorithm after some data preprocessing. 
+In this project, I am writing a alogrithm for a ml model to predict the survival of pepole from the titanic ship sink accident. In this the details of people is fed into a decison tree algorithm after some data preprocessing. For you to play around i had created a new file which when you input your details can tell wether you will survive or not. 
 
 
 
@@ -27,8 +27,8 @@ To load the model and use this line of code in a Python Script :
     import joblib
     model = joblib.load("Titanic_Survival_Prediction_Model")
     model.predict(Testing_Data)  # to know how to predict just go through the code
-    # for prediction array_must contain [['sepal length (cm)', 'sepal width (cm)', 'petal length (cm)', 'petal width (cm)']]
-    # use double square brackets eg: model.predict([[5.1 3.5 1.4 0.2]])
+    # for prediction array_must contain [['P_class', 'Sex', 'Age', 'Fare']]
+
 ```
 
 

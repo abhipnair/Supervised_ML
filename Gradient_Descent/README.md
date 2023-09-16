@@ -8,7 +8,7 @@ Gradient Descent is a widely used optimization algorithm in machine learning and
 
 ## Author
 
-- [@abhipnair](https://github.com/abhipnair)
+- [@abhipnair](httpss://github.com/abhipnair)
 
 
 ## Features

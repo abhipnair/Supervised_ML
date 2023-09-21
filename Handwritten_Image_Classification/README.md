@@ -1,7 +1,7 @@
 
 # Hand Written Image Classification.
 
-In this project we are writing a model which can recoginise handwritten digits. An 8x8 image is feed into the ml algorithm which uses certain type of mathamtical and statistical method to convert the image into certain type of classes they fall so this is a type of Multi class Logistic Regression model. 
+In this project i am are writing a model which can recoginise handwritten digits. An 8x8 image is feed into the ml algorithm which uses certain type of mathamtical and statistical method to convert the image into certain type of classes they fall so this is a type of Multi class Logistic Regression model. 
 
 
 
